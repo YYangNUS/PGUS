@@ -8,7 +8,7 @@ $^1$ National University of Singapore, $^2$ The University of Sheffield.
 
 <div align="center">
 
-### <img src="https://sp2025.ieee-security.org/images/trojan.png" width="14"/> [Paper Link](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b102/26hiU7onwQ0) | <img src="Google_Scholar.png" width="14"/> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKOkibgAAAAJ&citation_for_view=FKOkibgAAAAJ:IjCSPb-OGe4C) | [Bibtex](#bibtex) 
+### <img src="https://sp2025.ieee-security.org/images/trojan.png" width="14"/> [Paper Link](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b102/26hiU7onwQ0) | <img src="Google_Scholar.png" width="14"/> [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKOkibgAAAAJ&citation_for_view=FKOkibgAAAAJ:Tyk-4Ss8FVUC) | [Bibtex](#bibtex) 
 
 </div>
 
